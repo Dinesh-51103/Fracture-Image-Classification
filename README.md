@@ -5,8 +5,6 @@ Tech Stack:
 
 Model Building: TensorFlow, CNN
 
-Data Augmentation: TensorFlow's ImageDataGenerator
-
 Data Handling: TensorFlow Dataset
 
 User Interface: Gradio
