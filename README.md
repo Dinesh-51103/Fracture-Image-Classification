@@ -7,8 +7,9 @@ Tech Stack:
 
   Data Handling: TensorFlow Dataset
 
-    User Interface: Gradio
+  User Interface: Gradio
 
 DataSet:
   To Know more about dataset, kindly click the link below
+  
     https://www.kaggle.com/datasets/devbatrax/fracture-detection-using-x-ray-images
