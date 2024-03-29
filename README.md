@@ -10,6 +10,7 @@ Tech Stack:
   User Interface: Gradio
 
 DataSet:
+
   To Know more about dataset, kindly click the link below
   
-    https://www.kaggle.com/datasets/devbatrax/fracture-detection-using-x-ray-images
+  https://www.kaggle.com/datasets/devbatrax/fracture-detection-using-x-ray-images
