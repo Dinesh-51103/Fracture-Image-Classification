@@ -8,3 +8,7 @@ Model Building: TensorFlow, CNN
 Data Handling: TensorFlow Dataset
 
 User Interface: Gradio
+
+DataSet
+
+https://www.kaggle.com/datasets/devbatrax/fracture-detection-using-x-ray-images
