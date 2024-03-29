@@ -3,12 +3,12 @@ This repository contains the implementation for fracture image classification us
 
 Tech Stack:
 
-Model Building: TensorFlow, CNN
+  Model Building: TensorFlow, CNN
 
-Data Handling: TensorFlow Dataset
+  Data Handling: TensorFlow Dataset
 
-User Interface: Gradio
+    User Interface: Gradio
 
-DataSet
-
-https://www.kaggle.com/datasets/devbatrax/fracture-detection-using-x-ray-images
+DataSet:
+  To Know more about dataset, kindly click the link below
+    https://www.kaggle.com/datasets/devbatrax/fracture-detection-using-x-ray-images
